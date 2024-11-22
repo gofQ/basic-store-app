@@ -1,0 +1,33 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/aquarion.otf",
+      "sha1": "d236f7fe981139a3e1986ddb88dcde83fb8ca9ad"
+    },
+    {
+      "path": "assets/fonts/Candara.ttf",
+      "sha1": "a9c8c86b089813c5ad7b47993aa99911603f0345"
+    },
+    {
+      "path": "assets/fonts/Candara_Bold.ttf",
+      "sha1": "e8716e8e9013fae818a57d277d2dcc6bc25e1fce"
+    },
+    {
+      "path": "assets/fonts/Nunito.ttf",
+      "sha1": "466635ba024c43f741e320148a159557fd732ec0"
+    },
+    {
+      "path": "assets/fonts/Nunito2.ttf",
+      "sha1": "0bc82dfdb6c913d99eedb88d55e5d61b33ecd210"
+    },
+    {
+      "path": "assets/fonts/OpenSans.ttf",
+      "sha1": "ecdf1d58c0932a775c89b5ad48a7a0aaad66de4f"
+    },
+    {
+      "path": "assets/fonts/Pacifico-Regular.ttf",
+      "sha1": "baca1fca7fe74b61cb33aa0da48ec1a3a77bcf49"
+    }
+  ]
+}
